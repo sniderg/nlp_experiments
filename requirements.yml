@@ -1,0 +1,6 @@
+name: nlp_experiments
+channels:
+    - conda-forge
+dependencies:
+    - numpy=1.20
+    - scikit-learn=0.24.0
